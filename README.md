@@ -43,7 +43,7 @@
 * Obesity_Type_II     : 35.0 to 39.9
 * Obesity_Type_III   : Higher than 40
 * Overweight_Level_I, Overweight_Level_II takes values between 25 to 29  <br/>
-<br/>
+<br/><br/>
 ># Key Point 
 In this kaggle project, We explored the task of predicting obesity risk using a multi-class classification approach.
 
