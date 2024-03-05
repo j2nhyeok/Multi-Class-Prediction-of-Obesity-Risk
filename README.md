@@ -86,9 +86,10 @@ We employ an ensemble model consisting of Random Forest Model, LGBM Model, XGB M
 <br/>
 
 ># Member
-- Carolyne Jung : 
-- Dae-Hee Han :
-- Ju-Yeong Jung :
-- Jin-Hyeok Choi :  https://github.com/j2nhyeok
+- Carolyne Jung :
+- Ju-Yeong Jung : https://github.com/Ju0s
+- Jin-Hyeok Choi : https://github.com/j2nhyeok
+- Dae-Hee Han : https://github.com/roklp
+
    
 
