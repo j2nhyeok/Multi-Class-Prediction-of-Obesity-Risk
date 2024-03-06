@@ -81,7 +81,7 @@ We employ an ensemble model consisting of Random Forest Model, LGBM Model, XGB M
 **Ranking**  - 171/3589 <br/>
   
 ># Presentation
-https://python34.slack.com/files/U06APTUFB7Z/F06NGRSG925/5___________ppt.pptx
+[PPT](https://drive.google.com/file/d/1ukv25YlnXuIMYfdKFTbdN6HEsNSGhXFC/view?usp=drive_link)
 <br/>
 <br/>
 
